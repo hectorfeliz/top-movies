@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App .App-header {
+  background-color: #011627;
+  display: block;
+  float: left;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+.App .App-header h1 {
+  color: white;
+  margin: 0;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+.App .App-header img {
+  max-width: 40px;
+  margin: 0 20px;
+  float: left;
+}
+
+.App .App-link {
+  color: #2EC4B6;
+}
+/*# sourceMappingURL=App.css.map */

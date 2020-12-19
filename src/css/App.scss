@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+    .App-header {
+        background-color: #011627;
+        display: block;
+        float: left;
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+        h1{
+            color: white;
+            margin: 0;
+            float: left;
+            width: 100%;
+            text-align: center;
+        }
+
+        img{
+            max-width: 40px;
+            margin: 0 20px;
+            float: left;
+        }
+    }
+    .App-link {
+        color: #2EC4B6;
+    }
+    
+
+}
