@@ -26,4 +26,22 @@
     }
     
 
+    .MuiContainer-root{
+        .MuiInputLabel-formControl{
+            top: -15px;
+        }
+
+        .MuiFormControl-root{
+            width: 200px;
+            margin: 30px 0;
+        }
+
+        .MuiInput-root{
+            width: 100%;
+        }
+        .MuiSelect-select.MuiSelect-select{
+            padding-left: 12px;
+        }
+    }
+
 }

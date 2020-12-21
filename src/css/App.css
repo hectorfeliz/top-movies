@@ -28,4 +28,21 @@
 .App .App-link {
   color: #2EC4B6;
 }
+
+.App .MuiContainer-root .MuiInputLabel-formControl {
+  top: -15px;
+}
+
+.App .MuiContainer-root .MuiFormControl-root {
+  width: 200px;
+  margin: 30px 0;
+}
+
+.App .MuiContainer-root .MuiInput-root {
+  width: 100%;
+}
+
+.App .MuiContainer-root .MuiSelect-select.MuiSelect-select {
+  padding-left: 12px;
+}
 /*# sourceMappingURL=App.css.map */
